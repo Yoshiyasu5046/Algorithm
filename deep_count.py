@@ -17,6 +17,7 @@ def is_list(p):
 
 # It is not necessary to understand how is_list works. It returns True if the
 # input is a List, and returns False otherwise.
+
 def deep_count(p):
 	sum = 0 # sum is the total elements of this list and all the sublists
 	for e in p:
